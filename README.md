@@ -18,9 +18,9 @@
 
 作业文件路径范例： 
 
-`homework/李雷/第1次实验/source code`
+`homework/李雷/Experiment_1/source code`
 
-`homework/韩梅/第1次实验/source code`
+`homework/韩梅/Experiment_1/source code`
 
 
 ## 二、实验说明
