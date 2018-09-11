@@ -13,7 +13,7 @@
 ```
 请基于上述基本需求采用`多文件模块编程方法`完成该成绩管理系统的设计与实现。
 
-2. 将成绩管理系统实现源码提交到Github指定的repository仓库内(就是这个`Homework_Neumann/` 仓库)。
+2. 将成绩管理系统实现源码提交到Github指定的repository仓库内(就是这个`Homework_Turning/` 仓库)。
  
  ```
  作业提交过程
